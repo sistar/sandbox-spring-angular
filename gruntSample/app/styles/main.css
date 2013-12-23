@@ -1,0 +1,10 @@
+body {
+  font-family: Arial, sans-serif;
+}
+h2 {
+  color: blue;
+}
+done-true {
+  text-decoration: line-through;
+  color: grey;
+}
